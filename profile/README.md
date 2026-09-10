@@ -11,7 +11,7 @@ MachiVerse Project は、エージェントベース大規模世界シミュレ�
 MachiVerse は、都市・住民・自然環境を最初から配置された静的な状態として扱うのではなく、時間の経過、個々の主体の行動、自然環境と人間社会の相互作用によって現在の世界が形成されていく過程そのものを扱うことを目指しています。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MachiVerse-Project/MachiVerse-Website/main/www/assets/images/characters/nagumo-mio/web/mio-welcome.png" alt="南雲澪" width="360">
+  <img src="https://raw.githubusercontent.com/MachiVerse-Project/.github/main/profile/assets/github-org-readme-server-construction.png" alt="MachiVerse サーバー構築中の南雲澪" width="960">
 </p>
 
 ## MachiVerse が目指すもの
