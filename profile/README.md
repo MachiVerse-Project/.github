@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/MachiVerse-Project/MachiVerse/main/assets/images/brand/MachiVerse_Official_Logo_Primary.png" alt="MachiVerse" width="520">
 </p>
 
+<p align="center">
+  <strong>Official Image Character — 南雲 澪 / Nagumo Mio</strong>
+</p>
+
 # MachiVerse Project
 
 > **「世界を作る」のではなく、「世界がそうなった理由」までシミュレーションする。**
@@ -9,6 +13,12 @@
 MachiVerse Project は、エージェントベース大規模世界シミュレーション **MachiVerse** を開発するオープンソースプロジェクトです。
 
 MachiVerse は、都市・住民・自然環境を最初から配置された静的な状態として扱うのではなく、時間の経過、個々の主体の行動、自然環境と人間社会の相互作用によって現在の世界が形成されていく過程そのものを扱うことを目指しています。
+
+## 南雲 澪 / Nagumo Mio
+
+**南雲 澪（なぐも みお / Nagumo Mio）** は、MachiVerse の公式イメージキャラクターです。
+
+MachiVerse Project では、技術や設計だけでなく、南雲澪を通じたビジュアル表現もプロジェクトの一部として展開していきます。
 
 ## MachiVerse が目指すもの
 
