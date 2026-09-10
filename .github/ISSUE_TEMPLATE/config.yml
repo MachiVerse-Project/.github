@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: MachiVerse Discussions
+    url: https://github.com/MachiVerse-Project/MachiVerse/discussions
+    about: 質問、アイデア、実装対象として整理される前の相談やオープンな議論はこちらを利用してください。
