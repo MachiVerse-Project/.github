@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MachiVerse-Project/MachiVerse/main/assets/images/brand/MachiVerse_Official_Logo_Primary.png" alt="MachiVerse" width="520">
+  <img src="https://raw.githubusercontent.com/MachiVerse-Project/MachiVerse-Website/main/www/assets/images/brand/logo-primary.png" alt="MachiVerse" width="520">
 </p>
 
 # MachiVerse Project
